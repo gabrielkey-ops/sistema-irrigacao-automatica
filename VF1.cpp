@@ -2,9 +2,9 @@
   Projeto: Irrigacao Automatica com ESP32 + Blynk
 ************************************************************/
 
-#define BLYNK_TEMPLATE_ID   "TMPL2OefXAqXz"
-#define BLYNK_TEMPLATE_NAME "Irrigação Automática"
-#define BLYNK_AUTH_TOKEN    "_bH5JS-FwVtGwzE4M6LeV2TTgAC6NvPq"
+#define BLYNK_TEMPLATE_ID   "---"
+#define BLYNK_TEMPLATE_NAME "---"
+#define BLYNK_AUTH_TOKEN    "---"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -14,8 +14,8 @@
 // ==========================================================
 // Wi-Fi
 // ==========================================================
-char ssid[] = "Matsuda";
-char pass[] = "keyyuzo2610!";
+char ssid[] = "---";
+char pass[] = "---";
 
 // ==========================================================
 // Pinagem ESP32
