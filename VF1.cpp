@@ -1,7 +1,5 @@
 /************************************************************
   Projeto: Irrigacao Automatica com ESP32 + Blynk
-  Sensor de umidade: Higrometro C113 / GC-129
-  Rele corrigido: ativo em HIGH
 ************************************************************/
 
 #define BLYNK_TEMPLATE_ID   "TMPL2OefXAqXz"
